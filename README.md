@@ -1,2 +1,4 @@
 # lead_scoring
-Hien Huynh
+Huynh Huu Hien
+Harsh Rawat
+Hemlata Sah
